@@ -27,13 +27,13 @@ re,8 sol4 la8 sib[re] sib
 la [sol] fad sol re re la'4 sib8 do[mib] do8
 sib[re,] la' sol4\fermata
 
-sib8^\markup"Refrain (un peu plus vite)"
+sib8^\markup{ \italic "Allegro ma non troppo"}
 sib4 sib8 sib4 sib8 do[re] mib re sib re re4 re8 re4 re8 mi[do] mi 
 re4 ^\markup { \italic lento } r8
 mib4. do4 do8 re4 re8 sib4 sib8 do4.(sib4.) la4.\fermata r8 r8\fermata
 re,8^\markup { \italic "a tempo" }
 sol4 la8 sib[re] sib
-la^\p [re,] la' sol4.\fermata
+la^\p [re,] la' sol4.\fermata\bar "|."
 }
 
 

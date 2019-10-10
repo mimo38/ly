@@ -39,7 +39,7 @@ Paroles = \lyricmode {
     \set stanza = "1."
 Jeanne en chan -- tant
   est par -- ti' pour la Fran -- ce,
-  Ti -- rou -- li, Ran -- tan -- plan_!
+  Ti -- rou -- li, Ra -- tan -- plan_!
   Est par -- ti' pour la Fran -- ce,
   Ra -- ta -- plan_! plan_! plan_!
 }
@@ -63,5 +63,5 @@ Jeanne en chan -- tant
     >>
 \layout{}
 \midi{
-\tempo 4=150}
+\tempo 4=120}
 }
